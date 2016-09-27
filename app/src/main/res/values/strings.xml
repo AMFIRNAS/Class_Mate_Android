@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Classroom Quick Start</string>
+    <string name="sign_in_text">Sign in with Google</string>
+</resources>
