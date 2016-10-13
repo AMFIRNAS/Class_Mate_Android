@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+
+sout <nlsdfgsd>
 ##############################################################################
 ##
 ##  Gradle start up script for UN*X
