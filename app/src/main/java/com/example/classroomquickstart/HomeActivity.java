@@ -22,6 +22,13 @@ public class HomeActivity extends AppCompatActivity {
 
         setTitle("Subjects");
 
+
+
+
+
+
+
+
         Bundle extras = getIntent().getExtras();
         if (extras != null) {
             String[] CourseDetailsArray = extras.getStringArray("courses");
